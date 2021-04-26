@@ -1,6 +1,6 @@
 import React from "react";
-import "./Component.css"
+import "./Content.css"
 
-export default function Component() {
-  return <main className="Component"> Component Menu</main>;
+export default function Content() {
+  return <main className="Content"> Component Content</main>;
 }
