@@ -3,8 +3,8 @@ import React from "react";
 export default function Home() {
   return( 
   <div>
-    Component Home
-   <p>Bem-vindo!</p>
+    <h1>Component Home</h1>
+    <h2>Bem-vindo!</h2>
   </div>
   )
 }
